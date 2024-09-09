@@ -25,7 +25,7 @@ Installation Instructions
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/ai-for-farmers.git
+git clone https://github.com/Abs6187/Agro-AID.git
 cd ai-for-farmers
 Open the index.html file in your browser to see the current front-end.
 Future Updates
