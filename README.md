@@ -99,4 +99,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Maintained by [Abs6187](https://github.com/Abs6187)
 
 ## 📞 Support
-For support, email [your-email@example.com] or open an issue on GitHub.
+For support, email [contact2abhaygupta6187@gmail.com] or open an issue on GitHub.
