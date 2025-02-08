@@ -95,7 +95,7 @@ pytest
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Team
-- Created with ❤️ for Smart India Hackathon 2019
+- Created with ❤️ for Smart India Hackathon 2024
 - Maintained by [Abs6187](https://github.com/Abs6187)
 
 ## 📞 Support
