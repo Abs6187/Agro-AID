@@ -456,8 +456,8 @@ def submit_issue(user_id,data_id):
         print(answer)
         db_ref.update({u'answer': answer,u'seen':1})
 
-        account_sid = 'AC7b12fbd4c6a2cce3b4fa7d049dc074a7'
-        auth_token = '5eb6f4ccbb2dcc0e0f71a6ae165a8cd4'
+        account_sid = '#'
+        auth_token = '#'
         
         client = Client(account_sid, auth_token)
         message = client.messages \
